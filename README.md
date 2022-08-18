@@ -35,7 +35,7 @@ import datetime
 
 # Set the global variables
 globalVars  = {}
-globalVars['Owner']                 = "Miztiik"
+globalVars['Owner']                 = "kiran"
 globalVars['Environment']           = "Test"
 globalVars['REGION_NAME']           = "ap-south-1"
 globalVars['tagName']               = "Valaxy-Serverless-Automated-Backup"
